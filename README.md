@@ -90,12 +90,20 @@ Small, opinionated conventions and servers I use every day with Claude Code, Cod
 
 Eight papers across astrodynamics, bio-signals, primate behaviour and team dynamics. First author on three. The through-line is the method: learn a domain with real experts in it, then apply generative or analytical models to what they actually need.
 
-- **Generation of Periodic Orbits in the Restricted Three-Body Problem with a VAE** · *Celest. Mech. Dyn. Astron.*, 2026 · [paper](https://link.springer.com/article/10.1007/s10569-026-10299-x) · [code](https://github.com/alvaro-francisco-gil/orbit-generation)
-- **Behavioural Patterns of White-Faced Capuchins Under Ecotourism Pressures** · *Diversity*, 2026 · [paper](https://doi.org/10.3390/d18030169) · [code](https://github.com/alvaro-francisco-gil/monkey-tourism-analysis)
-- **Human Ants are Beneficial for Team Performance** · *APSEC*, 2025 · [paper](https://ieeexplore.ieee.org/document/11396603/) · [code](https://github.com/alvaro-francisco-gil/team-performance-study)
-- **Generative Astrodynamics: Trajectory Analysis and Design in the R3BP** · *AAS/AIAA SFMC*, 2025 · [paper](https://pureportal.strath.ac.uk/en/publications/generative-astrodynamics-trajectory-analysis-and-design-in-the-re/)
-- **Can Plants Perceive Human Gestures?** · *Biomimetics*, 2024 · done at MIT · [paper](https://www.mdpi.com/2313-7673/9/5/290) · [code](https://github.com/alvaro-francisco-gil/plant-reactivity-analysis)
-- **MentorEval: the largest benchmark for automated student grading** · Master's thesis, UNED, 2025 · [thesis](https://hdl.handle.net/20.500.14468/31689) · [code](https://github.com/alvaro-francisco-gil/mentor-eval) · [dataset](https://github.com/alvaro-francisco-gil/mentor-eval-dataset)
+**2026**
+
+- **Generation of Periodic Orbits in the Restricted Three-Body Problem with a VAE** · *Celest. Mech. Dyn. Astron.* · [paper](https://link.springer.com/article/10.1007/s10569-026-10299-x) · [code](https://github.com/alvaro-francisco-gil/orbit-generation)
+- **Behavioural Patterns of White-Faced Capuchins Under Ecotourism Pressures** · *Diversity* · [paper](https://doi.org/10.3390/d18030169) · [code](https://github.com/alvaro-francisco-gil/monkey-tourism-analysis)
+
+**2025**
+
+- **Human Ants are Beneficial for Team Performance** · *APSEC* · [paper](https://ieeexplore.ieee.org/document/11396603/) · [code](https://github.com/alvaro-francisco-gil/team-performance-study)
+- **Generative Astrodynamics: Trajectory Analysis and Design in the R3BP** · *AAS/AIAA SFMC* · [paper](https://pureportal.strath.ac.uk/en/publications/generative-astrodynamics-trajectory-analysis-and-design-in-the-re/) · [code](https://github.com/alvaro-francisco-gil/orbit-generation)
+- **MentorEval: the largest benchmark for automated student grading** · Master's thesis, UNED · [thesis](https://hdl.handle.net/20.500.14468/31689) · [code](https://github.com/alvaro-francisco-gil/mentor-eval) · [dataset](https://github.com/alvaro-francisco-gil/mentor-eval-dataset)
+
+**2024**
+
+- **Can Plants Perceive Human Gestures?** · *Biomimetics* · done at MIT · [paper](https://www.mdpi.com/2313-7673/9/5/290) · [code](https://github.com/alvaro-francisco-gil/plant-reactivity-analysis)
 
 <sub>Upcoming: *From Catalogs to Cognition: Trustworthy LLM Systems for SSA*, at AIAA SciTech 2027. Full list on [Google Scholar](https://scholar.google.com/citations?user=2e7n1DIAAAAJ&hl=en).</sub>
 
