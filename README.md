@@ -118,13 +118,8 @@ Eight papers across astrodynamics, bio-signals, primate behaviour and team dynam
 <summary><b>📚 Coursework and notes</b></summary>
 <br>
 
-[nn4nlp](https://github.com/alvaro-francisco-gil/nn4nlp) ·
-[text-mining](https://github.com/alvaro-francisco-gil/text-mining) ·
+[**uned-language-technologies**](https://github.com/alvaro-francisco-gil/uned-language-technologies): my MSc in Language Technologies (UNED), every subject in one repo ·
 [text-rank](https://github.com/alvaro-francisco-gil/text-rank) ·
-[text-representations](https://github.com/alvaro-francisco-gil/text-representations) ·
-[probabilistic-methods](https://github.com/alvaro-francisco-gil/probabilistic-methods) ·
-[language-technologies-applications](https://github.com/alvaro-francisco-gil/language-technologies-applications) ·
-[web-search-theory](https://github.com/alvaro-francisco-gil/web-search-theory) ·
 [social-network-analysis](https://github.com/alvaro-francisco-gil/social-network-analysis-presentation)
 
 </details>
